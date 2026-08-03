@@ -63,7 +63,7 @@ def main() -> None:
     print(f"salida={OUT}")
     print(
         f"Siguiente: escribe entregable/zonas_agrupamiento.csv "
-        f"({ZONA_OBJETIVO} + sistema_agrupamiento + ano)."
+        f"({ZONA_OBJETIVO} + sistema_agrupamiento + año)."
     )
 
 
